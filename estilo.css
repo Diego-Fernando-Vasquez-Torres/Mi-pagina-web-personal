@@ -1,7 +1,7 @@
 
 body  {
     color: rgb(167, 167, 167);
-    background-image: url('img/noche.jpg');
+    background-image: url('noche.jpg');
     background-size: cover;
 }
 body::before {
