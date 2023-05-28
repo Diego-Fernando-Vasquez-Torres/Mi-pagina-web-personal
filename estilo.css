@@ -106,8 +106,6 @@ a{
 c{
     margin-top: 20px;
 }
-div{
-    color: white;
-    font-size: 16 px;
-    
+.menu-secundario{
+    color: white;  
 }
